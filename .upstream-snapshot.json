@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-oberhumer__lzo",
+  "canonical_upstream": "https://www.oberhumer.com/opensource/lzo/",
+  "source": {
+    "kind": "release",
+    "version": "2.10",
+    "revision": "c0f892943208266f9b6543b3ae308fab6284c5c90e627931446fb49b4221a072",
+    "archive_url": "https://www.oberhumer.com/opensource/lzo/download/lzo-2.10.tar.gz",
+    "formula": "lzo",
+    "upstream_url": "https://www.oberhumer.com/opensource/lzo/",
+    "source_checksum_matches_registry": true
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING"
+    ],
+    "notice_files": [
+      "AUTHORS"
+    ],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "94fea500c7d6e3c6796b6f211003aaaafc661c0aad25d9249e3f519e3b60a54d",
+  "tree_sha256": "939481cb423142c8cf6340e525aaa5cee0fb78598777f816612939cc14a2ac40"
+}
